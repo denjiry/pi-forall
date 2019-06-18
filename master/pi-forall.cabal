@@ -24,7 +24,6 @@ library
                    PrettyPrint
                    Equal
                    LayoutToken
-                   Main
   Build-depends:  base >= 4 && < 5,
                   parsec >= 3.1.8 && < 3.2,
                   mtl >= 2.2.1,
